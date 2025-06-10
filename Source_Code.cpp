@@ -409,7 +409,7 @@ void intro()
 	cout<<"\n| BANK";
 	cout<<"\n| MANAGEMENT";
 	cout<<"\n| SYSTEM";
-	cout<<"\n\nMADE BY : Suryanshu Jain, Suyash Rajput, Vaibhav Harit, Yash Sharma";
+	cout<<"\n\nMADE BY : Abhay Dwivedi";
 	cout<<"\n\nPress ENTER to continue...";
     cin.get();
 }
@@ -743,7 +743,9 @@ void remove_dublicates(vector<vector<int> > &safe_seq){
             }
         }
     }
+
 }
+
 
 //function to update account balance
 void update_ac_bal(int ac_no, int bal){
